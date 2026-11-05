@@ -1,0 +1,7 @@
+[project]
+name = "ecommerce-recommend-agent"
+version = "0.1.0"
+description = "E-commerce recommendation agent with multi-agent RAG"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
